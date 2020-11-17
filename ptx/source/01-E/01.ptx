@@ -431,12 +431,6 @@ All inconsistent linear systems contain a logical <term>contradiction</term>.
 
 
 	<figure>
-		<video xml:id="video-E1" source="https://southalabama.hosted.panopto.com/Panopto/Podcast/StreamInBrowser/266e0be9-9533-4df2-8a1c-ac1a0142a06a.mp4?mediaTargetType=videoPodcast">
-			<track kind="subtitles" label="US English" xml:lang="en" source="videos/E1-captions.vtt"/>
-		</video>
-		<caption>Video example: Converting between systems, vector equations, and augmented matrices</caption>
-	</figure>
-	<figure>
 		<video xml:id="video-E1" source="https://southalabama.hosted.panopto.com/Panopto/Podcast/StreamInBrowser/b9e50548-7fcd-42a9-a91e-ac190138c4b7.mp4?mediaTargetType=videoPodcast">
 			<track kind="subtitles" label="US English" xml:lang="en" source="videos/E1-captions.vtt" default=""/>
 		</video>
